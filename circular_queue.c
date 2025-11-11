@@ -105,9 +105,10 @@ int main() {
                 printf("Exiting program.\n");
                 exit(0);
             default:
-                printf("Invalid choice! Try again.\n");
+                printf("Invalid choice!\n");
         }
     }
 
     return 0;
 }
+
